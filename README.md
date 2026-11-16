@@ -15,13 +15,13 @@
 
 ## Sumário
 
-1. [Sobre o Projeto](#-sobre-o-projeto)
-2. [Objetivos & Requisitos Atendidos](#-objetivos--requisitos-atendidos)
-3. [Arquitetura do Repositório](#-arquitetura-do-repositório)
-4. [Fluxo de Trabalho & Versionamento](#-fluxo-de-trabalho--versionamento)
-5. [Resultados & Publicação (GitHub Pages)](#-resultados--publicação-github-pages)
-6. [Como Executar Localmente](#-como-executar-localmente)
-7. [Autor & Colaboradores](#-autor--colaboradores)
+1. [Sobre o Projeto](#sobre-o-projeto)
+2. [Objetivos & Requisitos Atendidos](#objetivos--requisitos-atendidos)
+3. [Arquitetura do Repositório](#arquitetura-do-repositório)
+4. [Fluxo de Trabalho & Versionamento](#fluxo-de-trabalho--versionamento)
+5. [Resultados & Publicação (GitHub Pages)](#resultados--publicação-github-pages)
+6. [Como Executar Localmente](#como-executar-localmente)
+7. [Autor & Colaboradores](#autor--colaboradores)
 
 ---
 
