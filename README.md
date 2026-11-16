@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Projeto%20Integrador%20Git%20%26%20GitHub&fontSize=36&fontColor=f8fafc&fontAlignY=38&desc=Portf%C3%B3lio%20Oficial%20%E2%80%A2%20Engenharia%20de%20Computa%C3%A7%C3%A3o%20(CEFET-MG)&descSize=16&descAlignY=58" alt="Capa do Projeto Integrador Git e GitHub" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200§ion=header&text=Projeto%20Integrador%20Git%20e%20GitHub&fontSize=36&fontColor=f8fafc&fontAlignY=38&desc=Portf%C3%B3lio%20Oficial%20%E2%80%A2%20Engenharia%20de%20Computa%C3%A7%C3%A3o%20(CEFET-MG)&descSize=16&descAlignY=58" alt="Capa do Projeto Integrador Git e GitHub" width="100%" />
 </div>
 
 <p align="center">
