@@ -71,7 +71,7 @@ O desenvolvimento foi dividido em etapas independentes para manter a branch `mai
 
 O portfólio resultante reúne os projetos desenvolvidos ao longo da trilha prática do curso:
 
-* **Deploy Online:** [https://pedrsiqueira.github.io/projeto-final-git/](https://pedrsiqueira.github.io/projeto-final-git/) *(ativo após publicação da `main`)*
+* **Deploy Online:** [https://pedrsiqueira.github.io/projeto-final-git/](https://pedrsiqueira.github.io/projeto-final-git/)
 * **Repositório Principal:** [github.com/pedrsiqueira/projeto-final-git](https://github.com/pedrsiqueira/projeto-final-git)
 * **Projetos Referenciados:**
   * [`meu-portfolio`](https://github.com/pedrsiqueira/meu-portfolio) — Prática de deploy estático com GitHub Pages.
